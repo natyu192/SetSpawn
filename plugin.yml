@@ -1,0 +1,10 @@
+name: SetSpawn
+version: 0.0.1
+main: com.gmail.mckokumin.setspawn.Main
+commands:
+  setspawn:
+    permission: natyu.setspawn
+  spawn:
+    permission: natyu.spawn
+  worldspawn:
+    permission: natyu.worldspawn
